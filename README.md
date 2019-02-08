@@ -16,3 +16,4 @@ Capstone presentations about data science.
 
 - [Math lectures](https://github.com/ExtraLime/math-lectures) Combine NLP with supervised and unsupervised learning to classify math lectures. By William Morgan.
 
+- [Classifying Rx Drugs] (https://github.com/jowaychao/Classifying-Rx-Medication) Use Deep Learning to classify images of drugs. By Joey Chao.
